@@ -1,2 +1,2 @@
-# note
-Interface for handling notation in a terminal environment.
+# cortex
+Interface for handling notation, files, directories and much more in a console environment.
